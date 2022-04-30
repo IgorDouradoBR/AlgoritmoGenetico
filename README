@@ -1,0 +1,4 @@
+# Alunos: Hojin Ryu, Igor Dourado e Igor Vicente
+
+## Para executar a aplicação: python app.py <fileNameInput>.txt <tamanhoDaPopulacao> <percentualMutacao>
+## python app.py pares10.txt 100 25
